@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Samplelink</string>
+    <string name="get_data_herokuapp">Get Data From Url</string>
+</resources>
